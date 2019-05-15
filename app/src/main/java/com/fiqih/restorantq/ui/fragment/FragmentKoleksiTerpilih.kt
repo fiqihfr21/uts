@@ -36,7 +36,7 @@ class FragmentKoleksiTerpilih: Fragment(){
         ),
         Kategori(
             3,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Jajanan Malam",
             8,
             5909,
@@ -44,7 +44,7 @@ class FragmentKoleksiTerpilih: Fragment(){
         ),
         Kategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Kopi Terbaik",
             9,
             1029,
@@ -52,7 +52,7 @@ class FragmentKoleksiTerpilih: Fragment(){
         ),
         Kategori(
             5,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Untuk Si Pecinta Manis",
             5,
             2990,

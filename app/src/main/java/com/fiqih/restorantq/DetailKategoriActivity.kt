@@ -15,7 +15,7 @@ class DetailKategoriActivity : AppCompatActivity() {
     private val detailKategori = listOf(
         DetailKategori(
             1,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Sushi Tomi",
             "Mountain View",
             "Sushi",
@@ -24,7 +24,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             2,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Specialty",
             "Mountain View",
             "Kafe, Kue, Roti",
@@ -33,7 +33,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             3,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Amici's East Coast",
             "Mountain View",
             "Pizza, Italy",
@@ -42,7 +42,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",
@@ -51,7 +51,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",
@@ -60,7 +60,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",
@@ -69,7 +69,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",
@@ -78,7 +78,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",
@@ -87,7 +87,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",
@@ -96,7 +96,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",
@@ -105,7 +105,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",
@@ -114,7 +114,7 @@ class DetailKategoriActivity : AppCompatActivity() {
         ),
         DetailKategori(
             4,
-            "url",
+            "https://www.masakapahariini.com/wp-content/uploads/2019/02/nasi-padang-1024x768.jpg",
             "Shana Thai",
             "Mountain View",
             "Thai",

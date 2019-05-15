@@ -12,4 +12,9 @@
     <string name="harga">harga</string>
     <string name="jam_buka">jam buka</string>
     <string name="buka_besok_pada_5_30_am">Buka besok pada 5:30 AM</string>
+    <string name="arsip">Arsip</string>
+    <string name="pernah">Pernah</string>
+    <string name="share">Share</string>
+    <string name="add_review">Add Review</string>
+    <string name="rate_this_place">Rate this place</string>
 </resources>
