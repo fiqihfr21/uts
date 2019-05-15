@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RestorantQ</string>
+    <string name="terpopuler_minggu_ini">Terpopuler Minggu Ini</string>
+    <string name="kategori">kategori</string>
+    <string name="jumlah_outlet_jumlah_disimpan">jumlah outlet, jumlah disimpan</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="nama_menu">nama menu</string>
+    <string name="tempat">tempat</string>
+    <string name="nama_resto">nama resto</string>
+    <string name="rate">3.5</string>
+    <string name="type">type</string>
+    <string name="harga">harga</string>
+    <string name="jam_buka">jam buka</string>
+    <string name="buka_besok_pada_5_30_am">Buka besok pada 5:30 AM</string>
+</resources>
